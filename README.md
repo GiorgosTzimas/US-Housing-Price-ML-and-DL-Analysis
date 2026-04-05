@@ -42,7 +42,7 @@ Below are the final results of the top performed model both for regression and c
 **Classification Results**
 ![Classification Results](images/Classification_Results.png)
 
-**Error Analysis of XGBoost model**
+**Error Analysis of XGBoost model (Classification)**
 ![XGB Error Analysis](images/XGB_Error_analysis.png)
 
 #### **Recommendations**
