@@ -109,6 +109,9 @@ Overall, this project demonstrates how machine learning can support structured d
 nlp-mental-health-classification/
 │
 ├── images
+  └── Classification_Results.png
+  └── Reression_Results.png
+  └── XGB_Error_analysis.png
 ├── README.md
 └── us_rental_ml_dl.ipynb
 └── us_rental_ml_dl_report.pdf
